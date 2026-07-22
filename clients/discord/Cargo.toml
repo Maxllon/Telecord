@@ -1,0 +1,5 @@
+[package]
+name = "telecord-discord"
+description = "Discord client for Telecord"
+
+edition.workspace = true

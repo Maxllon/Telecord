@@ -3,5 +3,21 @@
 version = 4
 
 [[package]]
-name = "Telecord"
-version = "0.1.0"
+name = "telecord-bridge"
+version = "0.0.0"
+
+[[package]]
+name = "telecord-cli"
+version = "0.0.0"
+
+[[package]]
+name = "telecord-discord"
+version = "0.0.0"
+
+[[package]]
+name = "telecord-shared"
+version = "0.0.0"
+
+[[package]]
+name = "telecord-telegram"
+version = "0.0.0"

@@ -1,0 +1,5 @@
+[package]
+name = "telecord-telegram"
+description = "Telegram client for Telecord"
+
+edition.workspace = true

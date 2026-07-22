@@ -1,0 +1,5 @@
+[package]
+name = "telecord-cli"
+description = "CLI for working with Telecord"
+
+edition.workspace = true

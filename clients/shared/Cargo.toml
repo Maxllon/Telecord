@@ -1,0 +1,5 @@
+[package]
+name = "telecord-shared"
+description = "Shared types & traits for clients"
+
+edition.workspace = true
