@@ -3,3 +3,9 @@ name = "telecord-telegram"
 description = "Telegram client for Telecord"
 
 edition.workspace = true
+
+[dependencies]
+teloxide.workspace = true
+log.workspace = true
+pretty_env_logger.workspace = true
+tokio.workspace = true

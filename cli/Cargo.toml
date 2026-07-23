@@ -3,3 +3,10 @@ name = "telecord-cli"
 description = "CLI for working with Telecord"
 
 edition.workspace = true
+
+[dependencies]
+teloxide.workspace = true
+log.workspace = true
+pretty_env_logger.workspace = true
+tokio.workspace = true
+telecord-telegram = {path = "../clients/telegram"}
